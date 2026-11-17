@@ -1,0 +1,1574 @@
+{
+  "capturedAt": "2026-11-17T15:31:58.477Z",
+  "source": "Live public Steam Workshop pages, english and schinese",
+  "repository": "DwlufveX/rimmod-workshop-assets",
+  "mods": [
+    {
+      "key": "RoleWardrobe",
+      "workshopId": "3838215998",
+      "title": "职业衣橱 / Role Wardrobe"
+    },
+    {
+      "key": "PsycastTrade",
+      "workshopId": "3834224553",
+      "title": "Vanilla Psycasts Expanded - Spirit Covenant / 灵契会"
+    },
+    {
+      "key": "PersonalPaths",
+      "workshopId": "3828785758",
+      "title": "VPE Skill Adjustments"
+    },
+    {
+      "key": "Geomancer",
+      "workshopId": "3828785749",
+      "title": "Vanilla Psycasts Expanded - Geomancer / 地卜师"
+    },
+    {
+      "key": "DriverShifts",
+      "workshopId": "3819033810",
+      "title": "远行队轮班驾驶 / Caravan Driver Shifts"
+    },
+    {
+      "key": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "title": "Automated Medical System - 自动化医疗系统"
+    },
+    {
+      "key": "Sanctum",
+      "workshopId": "3816884275",
+      "title": "Vanilla Psycasts Expanded - Psycast Sanctums / 灵能圣所"
+    }
+  ],
+  "assets": [
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12555074233578983007/3B72D27AD2D9A6002107956A0AB6EBA19FFBF17B/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "9d5f537ff5eba69431fbb83af99806ebd7169c8fafa6e64089c8e3c41352d073",
+      "bytes": 234430,
+      "path": "PersonalPaths/workshop/9d5f537ff5eba694.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/9780636964761071394/79AE6C3B56D378A8E38949640C88BED519168976/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "a7e0b0be872e29e8f2527b3890d14028bcd9164ef35e25ff18e46a5f1525ce5b",
+      "bytes": 243888,
+      "path": "PersonalPaths/workshop/a7e0b0be872e29e8.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15795052356934534539/87D9E36C728DCB3B4B562C3C2E6B3EF406F10532/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "aa79b280c7e4559cb2686ab6a4b8b2bf8588db48a40c758bed34473f73bd6328",
+      "bytes": 284910,
+      "path": "PersonalPaths/SKILLS01.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10154542093474625987/86DD9C95D7092B6A0FA9231200EF8CA3C36AAA27/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 2
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 4
+        }
+      ],
+      "sha256": "ef542f002aacc7d8eaa7cbb0fad77f39d1fb4cdb357a05dbf4daf0b6347cb98d",
+      "bytes": 241580,
+      "path": "PersonalPaths/SKILLS01.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11039807122394226446/FEE3CA303CF3E4A6ED11FD50B726A68C8DB42515/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "155aa479c3432d345c699785422e73728dc4e46fe9759af57d15dbb8902884dc",
+      "bytes": 318024,
+      "path": "PersonalPaths/SKILLS02.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11415184254269406109/EC80ACFAC0BBDB10F5F9AEA30A674A81E01F56E4/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 4
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 5
+        }
+      ],
+      "sha256": "0998601d915750e8562389259041e60bdd7a1ed7552ededf4a4c420a1aa7e81a",
+      "bytes": 258050,
+      "path": "PersonalPaths/SKILLS02.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13377487967021104682/E82E92D46B838CBBAD08C13A91941D8B114AA5C6/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 5
+        }
+      ],
+      "sha256": "44a708803ef429e6afacbdb3f8fc67d29f5a271ae8533dadcf34df096ac30d56",
+      "bytes": 287552,
+      "path": "PersonalPaths/SKILLS03.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/18040637199482948036/A58A9893634D23AC4CBD2332D661C22B9F3EE000/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 6
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 6
+        }
+      ],
+      "sha256": "0dc00e7971fa5cf5dd2268928583be5bd34ec5fdd55d682a3255cf9ae125af5c",
+      "bytes": 239554,
+      "path": "PersonalPaths/SKILLS03.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10320291431059570103/24B31B28C702B2F43B88C9A2AA17247D5DAA1292/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 7
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 7
+        }
+      ],
+      "sha256": "f61d1506a5b6bfa3b78c32a1225a5bc77276e7d584f4464bf644fee29a9d6f39",
+      "bytes": 323452,
+      "path": "PersonalPaths/NEW01.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13033269840444548181/50B9E22FC7797227518F05306E3CCA9BE862F45A/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 8
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 8
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "a1caa4f2ed437a4bf76cc719e7699996534acb1e42f1da60e435e3d2e323ca0b",
+      "bytes": 266987,
+      "path": "PersonalPaths/NEW01.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12032273195713257204/CEAEE1083D56BC6253B5B8C800E03C41B5CA9ADC/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 9
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 9
+        }
+      ],
+      "sha256": "e7b01d24084c5025672c19ce8c908cbd5d6ad32ac8d1227bd36f2c5735b3ea2a",
+      "bytes": 215559,
+      "path": "PersonalPaths/NEW02.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11580858812025059504/43C8A545469FD6E607AB27BC4CAF3AA7471B7084/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 10
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 10
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "32bdd05581f952a9822eab9d49b763a649f68f8898aef4035f6a136fd6846689",
+      "bytes": 171669,
+      "path": "PersonalPaths/NEW02.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17630988205364929183/CCF95E61F5E7A3743F129E092423629EB40C2031/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 11
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 11
+        }
+      ],
+      "sha256": "133c12df3de08b4446164ad9b5ae43546d51df601ce55fe3e93f3b45a359447c",
+      "bytes": 178699,
+      "path": "PersonalPaths/NEW03.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10317657121205426854/04AD9866A381049611CD5D709989D21806C4EC47/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 12
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 12
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "79196bdc0d05e48cf70dae6e93b8f07e57f0c497b8ac7910267f86b7c3247d8c",
+      "bytes": 139836,
+      "path": "PersonalPaths/NEW03.zh-CN.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/14491282164281711102/60E78D598FFEE65331E157422A195F3C25D00D43/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 13
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 13
+        }
+      ],
+      "sha256": "4dc05aed3797df97e6b5a1102c102954aa01d2d244537cca3d4ae88cef973c22",
+      "bytes": 87778,
+      "path": "PersonalPaths/RECOIL.en.jpg"
+    },
+    {
+      "mod": "PersonalPaths",
+      "workshopId": "3828785758",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12447160393140037067/7C6B291F328A9340FCC85035BAF7D73CA113A34E/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 14
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 14
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "92083b0437415931d3b2f36e1be6bed3316d9699d158bda7e68d6e75eecbfeff",
+      "bytes": 74460,
+      "path": "PersonalPaths/RECOIL.zh-CN.jpg"
+    },
+    {
+      "mod": "RoleWardrobe",
+      "workshopId": "3838215998",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17223762269422687152/7A0EB60AB202582924C9D000DE9736CCEE3EE939/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "ceadf2f2c9274ca6f86b1c3b98043f6ab35b31376bddbdffa445f256eb4d7b9e",
+      "bytes": 449661,
+      "path": "RoleWardrobe/workshop/ceadf2f2c9274ca6.png"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11654198866972497888/9514BBE9C3BD0A2298766A97F79B4146C8B70AF5/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "00feeb049b22cec0d6a1650a4609cd9e98efd09189ce20a6ae99069ba47fdbcf",
+      "bytes": 381834,
+      "path": "PsycastTrade/workshop/00feeb049b22cec0.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/16296469725924558602/80967761AAD7F73B23EEA681B277AFF25976869A/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "433322b70329263ff6deb66ea0eba0f6f58ff1a6fdc1f214770ff36e5a53dce9",
+      "bytes": 362335,
+      "path": "PsycastTrade/COVENANT.zh-CN.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17434884372201891729/D068EB20018C5650AB406013357B703EAE462661/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "69d19bf24acd61b9ab28d542392a1899f89e0b7e96217453d6fe3b67311b8186",
+      "bytes": 462085,
+      "path": "PsycastTrade/COVENANT.en.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15079553978658330618/ECB21358DAAB549928AD5A96A51944E2A568A4B3/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 2
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "87e222a1af336b38c87aa3a2a4ff32fd978771e547c78049392a0d1c972d29f5",
+      "bytes": 424167,
+      "path": "PsycastTrade/SKILLBOOK.zh-CN.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10420170030019153837/E9661D66D4305F3E908EAA081250A07779539B11/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "a0f8a2a16348285b64496dbe858ad9ee1a0ac058f8bc8ce6c22e4c18dafd3955",
+      "bytes": 528074,
+      "path": "PsycastTrade/SKILLBOOK.en.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11899354222394073791/516EDA50A9F25E4A63D0202ED538E8831F4E973C/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 4
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "96cca42a738a65cb865f70babf40f49e7f498b1e8845bfd69e7b05a3197176b2",
+      "bytes": 350128,
+      "path": "PsycastTrade/workshop/96cca42a738a65cb.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/16400777890751559216/155D8F28D61742C7CD2D70CF7D6B761B8459E358/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 5
+        }
+      ],
+      "sha256": "5b7e1ed28686ea927b9449f8f068956b7c20cb7e1273dffcde6e56a04d0d2487",
+      "bytes": 390277,
+      "path": "PsycastTrade/workshop/5b7e1ed28686ea92.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17900277813524265912/894DF89E4CBECA8EF431630726F0240D75D5C260/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 6
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "f477dcdb9ac181da8cbd36f039f7f3a685bc1562a5c6d3373cb59d24b84cb92e",
+      "bytes": 464082,
+      "path": "PsycastTrade/workshop/f477dcdb9ac181da.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15453299968435115662/86A8C38C5341C4EA7E49A4A5D5E2A0E5C668FD33/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 7
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 7
+        }
+      ],
+      "sha256": "d304db3ccfc7070a1b99e36329a4ed0521edd6dcddee46bb97e4b05eae4a3a41",
+      "bytes": 571071,
+      "path": "PsycastTrade/workshop/d304db3ccfc7070a.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/18320470183133649588/C123C4198E7B76D113DEA77640070BE00FAB491A/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 8
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 8
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 4
+        }
+      ],
+      "sha256": "6c034938e2f512449fb46122c8df7fecde3ac02ec4066e61d7694b4c67810258",
+      "bytes": 579262,
+      "path": "PsycastTrade/workshop/6c034938e2f51244.jpg"
+    },
+    {
+      "mod": "PsycastTrade",
+      "workshopId": "3834224553",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/18249432330563579728/6CC1E86385A0D4109D12876224FD76E7DAF62128/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 9
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 9
+        }
+      ],
+      "sha256": "890cabf9b81add21f3e7c5aea51434f76389613841fc47b13924b84ddbe650df",
+      "bytes": 580494,
+      "path": "PsycastTrade/workshop/890cabf9b81add21.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15562224039178022887/721DB2D48494527EE0FCF9589D578B9E3FBDB081/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "23d8bb5452c353b55e8e59bcb4be2cabeb980af51d34a1c2987018a1b514e00c",
+      "bytes": 976104,
+      "path": "Geomancer/workshop/23d8bb5452c353b5.png"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/14249360164196778447/5B6AA3D703F1BA2E875156E9227E153CFE33DA37/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "75a52ce96eb691e7a086a642921296d625c3d84f6f0efdcf6366ed72340dc40b",
+      "bytes": 423144,
+      "path": "Geomancer/workshop/75a52ce96eb691e7.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12186444920797651390/8082C8202B7729A172476A9CEF15FCE979B7C276/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "55b0f607c78f7045b9aeae04f094e984f67a9f2b08ecefc8b96438eb2d670d8e",
+      "bytes": 577099,
+      "path": "Geomancer/workshop/55b0f607c78f7045.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17157516463845021998/2DF59A9456C1B7D6062AFB08C7F042ABE0A7DC65/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "91b98fd13b31f80215a8c3b17c6b9293ca719e88a38e4e5be290004de362c2ad",
+      "bytes": 516199,
+      "path": "Geomancer/workshop/91b98fd13b31f802.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15572371748155647306/D981CA6467A6CCE0E7CE6DC4DD2524BB74E535FA/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "59758e24499429a07ced0c60c9a3d0e919c5f591b85f530fcd622b10b5c13775",
+      "bytes": 445148,
+      "path": "Geomancer/workshop/59758e24499429a0.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/9451377446924616019/F358F113EA6AA547074C7E263FAF2142CE3FA971/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 4
+        }
+      ],
+      "sha256": "98842aa71962ed9265b766b1cc51aeba8f71131dd58efa9f599867c9661cee77",
+      "bytes": 306362,
+      "path": "Geomancer/workshop/98842aa71962ed92.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/14240927644728277075/BA72C319B8ADD6061D4F55E7EF2D09906CB20771/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 5
+        }
+      ],
+      "sha256": "a1b580d4feed1dafdfbce5283207fb963e7a843b94ddd322006b33b4d98b00f0",
+      "bytes": 286294,
+      "path": "Geomancer/workshop/a1b580d4feed1daf.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/15633467215063007568/51C16797360ACC6BA6EF0E6C24DF509EB9CE3BEF/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 6
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "4a16e7557c5a941fc0ca2790b588fe931fa016c84c2453c2aca949847d142ce3",
+      "bytes": 334988,
+      "path": "Geomancer/GEOMANCER1.zh-CN.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/16044493337791777870/E69BC6CF415B37A8477BF967B876BF255105907C/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 7
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 7
+        }
+      ],
+      "sha256": "4fba30bcf85239d48a900d2d7d950c9fa42440cb05f79584e641a4a18acb7f9b",
+      "bytes": 336056,
+      "path": "Geomancer/GEOMANCER1.en.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/16484345243885108996/835E75605AC0F514BB9A5CDEE1AD31980BF5DA6E/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 8
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 8
+        }
+      ],
+      "sha256": "7c52cefca026b478678e470282a538d1767c78b399c98f6bc510b950b549d1d0",
+      "bytes": 511587,
+      "path": "Geomancer/GEOMANCER_GUIDE.en.jpg"
+    },
+    {
+      "mod": "Geomancer",
+      "workshopId": "3828785749",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11637414322962183959/81032E2681C0FC5024D49C3BA1CDF3440513159F/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 9
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 9
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "9b1b3fc9290ed489c77447e2d190cec826ee9e5292e958eea396a3775737457e",
+      "bytes": 441287,
+      "path": "Geomancer/GEOMANCER_GUIDE.zh-CN.jpg"
+    },
+    {
+      "mod": "DriverShifts",
+      "workshopId": "3819033810",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10137838495293750039/647E9037B2EB90D41F81B51F95F695AFDB4D347A/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "e97e1d2973e496529ec7fe9979bde7d05574eaadb3c32bc9adb5a16783370c34",
+      "bytes": 146546,
+      "path": "DriverShifts/workshop/e97e1d2973e49652.jpg"
+    },
+    {
+      "mod": "DriverShifts",
+      "workshopId": "3819033810",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12474996607789673142/647E9037B2EB90D41F81B51F95F695AFDB4D347A/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "e97e1d2973e496529ec7fe9979bde7d05574eaadb3c32bc9adb5a16783370c34",
+      "bytes": 146546,
+      "path": "DriverShifts/workshop/e97e1d2973e49652.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12796078668136394780/0F039B981AA5D48004E78E1C9D61F8EB7F5A2B4E/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "e43d38a9a77824e459e0f3cbd4394170d66d3d63cb2b052c97b84249c4cecf9a",
+      "bytes": 303824,
+      "path": "AutomatedMedicalSystem/workshop/e43d38a9a77824e4.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/14267301700861819377/0F039B981AA5D48004E78E1C9D61F8EB7F5A2B4E/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "e43d38a9a77824e459e0f3cbd4394170d66d3d63cb2b052c97b84249c4cecf9a",
+      "bytes": 303824,
+      "path": "AutomatedMedicalSystem/workshop/e43d38a9a77824e4.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17708807602724046923/A4105BD8C16ABD37118AD8E04FC1F6CA6FA2F870/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "752cf8db32a9d879971b0b777d8e53ed2eff2306b4f69a35ba3065c242bc590f",
+      "bytes": 496775,
+      "path": "AutomatedMedicalSystem/workshop/752cf8db32a9d879.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10042145392441163663/42A846C5F3AD4AD3A38F32E9511C6066E4E219BD/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "731702f6242d102acfd7c83c9e49188891a2f02707132d6030ef25706cd3f007",
+      "bytes": 271689,
+      "path": "AutomatedMedicalSystem/workshop/731702f6242d102a.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17223267930674246545/D4BEA22DED47A13E2AD5E5646582416A4AC2B64A/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "f9b887bb329c8cc6655164e32375e77cdcefc7fc6e6c3ab0f18aced051e5ebd1",
+      "bytes": 269816,
+      "path": "AutomatedMedicalSystem/workshop/f9b887bb329c8cc6.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11681343716255786535/B5CCC94586DFFD5A1476E4AB28F602E5327273AB/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 4
+        }
+      ],
+      "sha256": "4630cdcda4a6c0867641e9212cb559c16644d15a1567e4eda0c1e70b62d8103f",
+      "bytes": 254252,
+      "path": "AutomatedMedicalSystem/workshop/4630cdcda4a6c086.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/9590768815605076638/FCFE12036433D5E617165887A583C4F91B875AC2/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 5
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 4
+        }
+      ],
+      "sha256": "745c8577b0f3ed24766aa94d9c4328eb3bb13bb190217c64ed6b9aaa3253a43e",
+      "bytes": 477781,
+      "path": "AutomatedMedicalSystem/workshop/745c8577b0f3ed24.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17467958512646744579/1B9B261F9467F8875B2C24E8D348E32CC74D3534/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 6
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "e0a7ee7f6f0aae13d25c0e97acc516996678305e7d004f147a87ad734c336d24",
+      "bytes": 241636,
+      "path": "AutomatedMedicalSystem/workshop/e0a7ee7f6f0aae13.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12235211669240798594/F7A3DED0DE182A63C229835E579FCAC74DC5D4F9/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 7
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 7
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "3004b8b3c1d3365060553dd93dd76d49a089f1a5533828b4e3325f66a8e8fc06",
+      "bytes": 264482,
+      "path": "AutomatedMedicalSystem/workshop/3004b8b3c1d33650.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11477723568048446815/BC0AB9D23C6A757FB6923EA8F262424C73FC3E67/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 8
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 8
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "4de3bb762e7f5157711885893bae5097dd102d85acf75256eb08d98066b42652",
+      "bytes": 239692,
+      "path": "AutomatedMedicalSystem/workshop/4de3bb762e7f5157.jpg"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13139432228413289247/F9F165A62610C6CC99EE331FD40668E464D640F5/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 9
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 9
+        }
+      ],
+      "sha256": "d1503b166281feb7c1624a5ef01eaec474f1a4f335195107a6bc5f8bd93e3976",
+      "bytes": 80515,
+      "path": "AutomatedMedicalSystem/workshop/d1503b166281feb7.png"
+    },
+    {
+      "mod": "AutomatedMedicalSystem",
+      "workshopId": "3819033089",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10886027497545855154/0B420229A32493A4702C899B29D79AD44F857356/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 10
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 10
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "19d5542eec0c92acf02a50f1c0f67c6c62f3a33029a7787224ef3b752112bc65",
+      "bytes": 110598,
+      "path": "AutomatedMedicalSystem/workshop/19d5542eec0c92ac.png"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12682776267527501962/4C567D040F6280D5345314FD95EC2C38C42D9CD1/",
+      "uses": [
+        {
+          "role": "cover",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "cover",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "01452abc57c09f9dc1a0eaa24b43a426d8dbd9e9dd698ae4565c064c7292f20e",
+      "bytes": 798996,
+      "path": "Sanctum/workshop/01452abc57c09f9d.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/10402756092262111765/4C567D040F6280D5345314FD95EC2C38C42D9CD1/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "01452abc57c09f9dc1a0eaa24b43a426d8dbd9e9dd698ae4565c064c7292f20e",
+      "bytes": 798996,
+      "path": "Sanctum/workshop/01452abc57c09f9d.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11925971804604792587/34A1EC7676244B0A4F50395B84B4C53186BEF475/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "a086249461f07aab080ec17b191ee0d7d93c6234b4bf796aa55667ef010c21e6",
+      "bytes": 288982,
+      "path": "Sanctum/GAMEPLAY.zh-CN.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13945097766284027235/DBDC5147A7D034EDD2F3DBF1FEC66F177357C0A6/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "9cdffcd7626dcb49f2cb6323f437fc343b9cc359a82ca8227f85dbc706c80fde",
+      "bytes": 355837,
+      "path": "Sanctum/workshop/9cdffcd7626dcb49.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11515611026552742027/34A1EC7676244B0A4F50395B84B4C53186BEF475/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 3
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 3
+        }
+      ],
+      "sha256": "a086249461f07aab080ec17b191ee0d7d93c6234b4bf796aa55667ef010c21e6",
+      "bytes": 288982,
+      "path": "Sanctum/GAMEPLAY.zh-CN.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/9380263319948274788/0C8DAA0AFFB2FAC6EED1C1FD7A73DDCE23F25E66/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 4
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 4
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 0
+        }
+      ],
+      "sha256": "0afbd6c2b420575639ca60d098d8a1753f09d1f58cc908aed94b165e430c7a19",
+      "bytes": 523529,
+      "path": "Sanctum/GUARDIANS.zh-CN.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/11574297010000277752/1B55287354D469E1305BDEB002F5BD5755DE6F75/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 5
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 5
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 1
+        }
+      ],
+      "sha256": "f504d0983a96bbce417d5ef1bfaed02e19da2b489aac0469178a48eb5b0554b5",
+      "bytes": 473583,
+      "path": "Sanctum/BOSSES.zh-CN.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13055257198574351711/C59601B0D6F4611D2016EC7B92AA1F5E79E6D40F/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 6
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 6
+        },
+        {
+          "role": "description",
+          "language": "schinese",
+          "order": 2
+        }
+      ],
+      "sha256": "69b01644ea9f14fca96513a266be2cf677b4025b7f210424b60c8cb930044591",
+      "bytes": 335910,
+      "path": "Sanctum/EQUIPMENT.zh-CN.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/17585888117793470672/A7467132F78325147AB64F85A4C4E5424E9F375F/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 7
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 3
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 7
+        }
+      ],
+      "sha256": "7cf82c4e5c12a01cbde8335e72112926b70c2a332b7085ec064b76df3d611f5f",
+      "bytes": 286531,
+      "path": "Sanctum/GAMEPLAY.en.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/13529971054135816436/F47AD6487DE341DC479A896B6068A775DBF4EB72/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 8
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 0
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 8
+        }
+      ],
+      "sha256": "2f462930f68dd756ca82bb1e54f571a57b7bfe8db56da705da2f2b867cab11b6",
+      "bytes": 607437,
+      "path": "Sanctum/GUARDIANS.en.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/12178949387457756371/36BA03CF96A9966D66084805FF0D2C439851FCE8/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 9
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 1
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 9
+        }
+      ],
+      "sha256": "1ad22f8f9a98fa7252b915e0aec766b2dd5d9972c275bd85af5aa09dfab35cd3",
+      "bytes": 507065,
+      "path": "Sanctum/BOSSES.en.jpg"
+    },
+    {
+      "mod": "Sanctum",
+      "workshopId": "3816884275",
+      "sourceUrl": "https://images.steamusercontent.com/ugc/9469833780103138593/7D9EC0E59AA64DB7651A4A9D3C7B4B8BC4BD8A5F/",
+      "uses": [
+        {
+          "role": "gallery",
+          "language": "english",
+          "order": 10
+        },
+        {
+          "role": "description",
+          "language": "english",
+          "order": 2
+        },
+        {
+          "role": "gallery",
+          "language": "schinese",
+          "order": 10
+        }
+      ],
+      "sha256": "e073946006464c284bac1ca87ddf3627dd203ddf5f74e44c37da51da11712008",
+      "bytes": 368805,
+      "path": "Sanctum/EQUIPMENT.en.jpg"
+    }
+  ]
+}

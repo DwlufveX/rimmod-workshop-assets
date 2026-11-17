@@ -1,29 +1,25 @@
 # RimMod Workshop assets
 
-Images for DwlufveX's RimWorld mods' Workshop descriptions.
+Public artwork for DwlufveX’s published RimWorld mods.
 
-Never rewrite history. Never delete files referenced by a published description.
-Always link by commit SHA:
-`https://raw.githubusercontent.com/<owner>/rimmod-workshop-assets/<commit-sha>/<path>`
+## Current Workshop images
 
-Layout: `<ModKey>/<Key>.<lang>.<ext>`; languages are `en` and `zh-CN`.
-`index.json` records verified images and their original media entry names and source paths.
-`skipped.json` lists missing files, hash mismatches, and excluded gallery entries.
-Source paths are resolved relative to `E:\Project\RimMod\Fixes\PsycastSanctum`.
-Only current `Modules/Release/Media/*.json` manifests are used; backups are ignored.
-PsycastTrade uses the current 1.2.0 phase-1 configuration.
+Captured from all 7 public items on 2026-11-17, including English and Simplified Chinese descriptions, covers and galleries. Identical bytes within a Mod are reused. [workshop-index.json](workshop-index.json) records source URLs, ordering, languages and SHA-256 hashes.
 
-```powershell
-.\Tools\Verify-Index.ps1
-.\Tools\Get-PinnedUrl.ps1 -Owner YOUR_GITHUB_ACCOUNT
-.\Tools\Get-PinnedUrl.ps1 -Owner YOUR_GITHUB_ACCOUNT -Commit FULL_COMMIT_SHA
-```
+| Mod | Images | Workshop |
+| --- | ---: | --- |
+| [RoleWardrobe](RoleWardrobe/README.md) | 1 | [3838215998](https://steamcommunity.com/sharedfiles/filedetails/?id=3838215998) |
+| [PsycastTrade](PsycastTrade/README.md) | 11 | [3834224553](https://steamcommunity.com/sharedfiles/filedetails/?id=3834224553) |
+| [PersonalPaths](PersonalPaths/README.md) | 16 | [3828785758](https://steamcommunity.com/sharedfiles/filedetails/?id=3828785758) |
+| [Geomancer](Geomancer/README.md) | 11 | [3828785749](https://steamcommunity.com/sharedfiles/filedetails/?id=3828785749) |
+| [DriverShifts](DriverShifts/README.md) | 1 | [3819033810](https://steamcommunity.com/sharedfiles/filedetails/?id=3819033810) |
+| [AutomatedMedicalSystem](AutomatedMedicalSystem/README.md) | 11 | [3819033089](https://steamcommunity.com/sharedfiles/filedetails/?id=3819033089) |
+| [Sanctum](Sanctum/README.md) | 10 | [3816884275](https://steamcommunity.com/sharedfiles/filedetails/?id=3816884275) |
 
-## 中文
+## Publishing workflow
 
-本仓库用于存放 DwlufveX 的 RimWorld 模组创意工坊描述图片。
-禁止重写历史；禁止删除已发布描述引用的文件；图片链接必须固定到提交 SHA。
-目录格式为 `<ModKey>/<Key>.<lang>.<ext>`，语言使用 `en` 和 `zh-CN`。
-仅复制当前媒体 JSON 中源文件存在且 SHA-256 匹配的描述/指南图，不修改源文件。
-`index.json` 保存图片索引与来源；`skipped.json` 逐项记录缺失、哈希不匹配及范围外的画廊条目。
-本次只建立本地仓库，不设置远程、不推送。
+Upload new images to the matching Mod directory, verify downloaded bytes, then use commit-pinned raw GitHub URLs in Workshop descriptions. Keep gallery order and language mappings in workshop-index.json. Remove Steam gallery entries only after replacement links have been verified and the gallery migration is performed. This snapshot does not change Steam pages.
+
+Never rewrite history or delete published image paths. Existing guide paths, index.json and Tools remain compatible. skipped.json describes the older guide-only import, not current coverage.
+
+URL format: `https://raw.githubusercontent.com/DwlufveX/rimmod-workshop-assets/<commit>/<path>`.
