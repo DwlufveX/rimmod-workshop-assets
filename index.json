@@ -1,0 +1,178 @@
+[
+    {
+        "mod":  "Geomancer",
+        "key":  "GEOMANCER_GUIDE",
+        "language":  "en",
+        "path":  "Geomancer/GEOMANCER_GUIDE.en.jpg",
+        "sha256":  "7c52cefca026b478678e470282a538d1767c78b399c98f6bc510b950b549d1d0",
+        "bytes":  511587,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Geomancer-Guide-1.3.0\\Geomancer-Guide.en.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\Geomancer.json",
+        "mediaEntryName":  "Geomancer-Guide.en.jpg"
+    },
+    {
+        "mod":  "Geomancer",
+        "key":  "GEOMANCER_GUIDE",
+        "language":  "zh-CN",
+        "path":  "Geomancer/GEOMANCER_GUIDE.zh-CN.jpg",
+        "sha256":  "9b1b3fc9290ed489c77447e2d190cec826ee9e5292e958eea396a3775737457e",
+        "bytes":  441287,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Geomancer-Guide-1.3.0\\Geomancer-Guide.zh-CN.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\Geomancer.json",
+        "mediaEntryName":  "Geomancer-Guide.zh-CN.jpg"
+    },
+    {
+        "mod":  "Geomancer",
+        "key":  "GEOMANCER1",
+        "language":  "en",
+        "path":  "Geomancer/GEOMANCER1.en.jpg",
+        "sha256":  "4fba30bcf85239d48a900d2d7d950c9fa42440cb05f79584e641a4a18acb7f9b",
+        "bytes":  336056,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Sanctum-1.3.0-20261107\\Landscape-Guide.en.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\Geomancer.json",
+        "mediaEntryName":  "Landscape-Guide.en.jpg"
+    },
+    {
+        "mod":  "Geomancer",
+        "key":  "GEOMANCER1",
+        "language":  "zh-CN",
+        "path":  "Geomancer/GEOMANCER1.zh-CN.jpg",
+        "sha256":  "4a16e7557c5a941fc0ca2790b588fe931fa016c84c2453c2aca949847d142ce3",
+        "bytes":  334988,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Sanctum-1.3.0-20261107\\Upload\\09-Geomancer-Landscape-DwlufveX.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\Geomancer.json",
+        "mediaEntryName":  "09-Geomancer-Landscape-DwlufveX.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "COVENANT",
+        "language":  "en",
+        "path":  "PsycastTrade/COVENANT.en.jpg",
+        "sha256":  "69d19bf24acd61b9ab28d542392a1899f89e0b7e96217453d6fe3b67311b8186",
+        "bytes":  462085,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\WorkshopRepair-Write-20261109-153948\\Upload\\Covenant-Guide.en-attached-69D19BF24ACD.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Covenant-Guide.en-attached-69D19BF24ACD.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "COVENANT",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/COVENANT.zh-CN.jpg",
+        "sha256":  "433322b70329263ff6deb66ea0eba0f6f58ff1a6fdc1f214770ff36e5a53dce9",
+        "bytes":  362335,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\WorkshopRepair-Write-20261109-153948\\Upload\\Covenant-Guide.zh-CN-attached-433322B70329.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Covenant-Guide.zh-CN-attached-433322B70329.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "EQUIPMENT120",
+        "language":  "en",
+        "path":  "PsycastTrade/EQUIPMENT120.en.jpg",
+        "sha256":  "527fcb09515f306a00ecddd0678a0a276b19f8f4f359047150bfa2c5cb1227ad",
+        "bytes":  367352,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Equipment\\Equipment-Guide.en.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Equipment-Guide.en.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "EQUIPMENT120",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/EQUIPMENT120.zh-CN.jpg",
+        "sha256":  "5c39c169e84e57e3b1b739a212bc93a5f45b53da6c9b4f591f07a460554d5195",
+        "bytes":  335718,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Equipment\\Equipment-Guide.zh-CN.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Equipment-Guide.zh-CN.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "HOLLOWMIND",
+        "language":  "en",
+        "path":  "PsycastTrade/HOLLOWMIND.en.jpg",
+        "sha256":  "76a7df27a4defdc961578b7d696c50bdd062ed065b79e91ce1cd8add9493c5e3",
+        "bytes":  359409,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\Release-Covenant-1.2.0-20261116-173119\\Upload\\HollowMind-Guide.en-1.2.0-lite.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "HollowMind-Guide.en-1.2.0-lite.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "HOLLOWMIND",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/HOLLOWMIND.zh-CN.jpg",
+        "sha256":  "9daa8aeb214019f01de107a902be0cc04ee9f0cfc87f5d375e1be01a7c37be4c",
+        "bytes":  303241,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\Release-Covenant-1.2.0-20261116-173119\\Upload\\HollowMind-Guide.zh-CN-1.2.0-lite.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "HollowMind-Guide.zh-CN-1.2.0-lite.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "PSYCHICWELL",
+        "language":  "en",
+        "path":  "PsycastTrade/PSYCHICWELL.en.jpg",
+        "sha256":  "2faef2bd8f736bf195311577bcb14976c28c06976ceed0bf4453317f9ddb6fed",
+        "bytes":  586544,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Guides\\PsychicWell-Guide.en.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "PsychicWell-Guide.en.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "PSYCHICWELL",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/PSYCHICWELL.zh-CN.jpg",
+        "sha256":  "8c9a8937bfd95623e72341ce5e165483d5a25e5efab4ca9166c970445b243ad8",
+        "bytes":  451792,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Guides\\PsychicWell-Guide.zh-CN.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "PsychicWell-Guide.zh-CN.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "SKILLBOOK",
+        "language":  "en",
+        "path":  "PsycastTrade/SKILLBOOK.en.jpg",
+        "sha256":  "a0f8a2a16348285b64496dbe858ad9ee1a0ac058f8bc8ce6c22e4c18dafd3955",
+        "bytes":  528074,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\WorkshopRepair-Write-20261109-153948\\Upload\\SkillBook-Guide.en-attached-A0F8A2A16348.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "SkillBook-Guide.en-attached-A0F8A2A16348.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "SKILLBOOK",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/SKILLBOOK.zh-CN.jpg",
+        "sha256":  "87e222a1af336b38c87aa3a2a4ff32fd978771e547c78049392a0d1c972d29f5",
+        "bytes":  424167,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Deploy\\WorkshopRepair-Write-20261109-153948\\Upload\\SkillBook-Guide.zh-CN-attached-87E222A1AF33.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "SkillBook-Guide.zh-CN-attached-87E222A1AF33.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "SUPPLIES",
+        "language":  "en",
+        "path":  "PsycastTrade/SUPPLIES.en.jpg",
+        "sha256":  "b18fc80ba682f29b5ecb9dbf9ba9e6708f7a8b7687194b695cf16b8025029ab9",
+        "bytes":  389273,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Guides\\Supplies-Guide.en.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Supplies-Guide.en.jpg"
+    },
+    {
+        "mod":  "PsycastTrade",
+        "key":  "SUPPLIES",
+        "language":  "zh-CN",
+        "path":  "PsycastTrade/SUPPLIES.zh-CN.jpg",
+        "sha256":  "4b2d71dde7b4384b8fa96364c0ef7c8a34d1e05b5ad736961a9a40197d2a2735",
+        "bytes":  352943,
+        "sourcePath":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Docs\\Workshop\\Artwork\\Covenant-1.2.0-Guides\\Supplies-Guide.zh-CN.jpg",
+        "mediaJson":  "E:\\Project\\RimMod\\Fixes\\PsycastSanctum\\Modules\\Release\\Media\\PsycastTrade.json",
+        "mediaEntryName":  "Supplies-Guide.zh-CN.jpg"
+    }
+]
